@@ -33,8 +33,8 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 </p>
 
 
-🚧 **My Todoist Stats:**
 <!-- TODO-IST:START 
+🚧 **My Todoist Stats:**
 🏆            
 🌸            
 ✅  
