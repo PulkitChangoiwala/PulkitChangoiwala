@@ -1,5 +1,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I Love reading about products and startups. Also, I am an ardent book reader. I do Competitive Programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I occassionally design! Always ready to discuss new stuffs and products. Catch me on Twitter.
+
 <!--
 **PulkitChangoiwala/PulkitChangoiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
