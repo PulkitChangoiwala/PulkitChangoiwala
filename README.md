@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/hi.gif" width="30px">
 
 
 <br />
@@ -24,15 +24,15 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
  
 <p align="center">
   <div align="left" >
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/html.gif" width="40">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/css.gif" width="40">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/js.webp" width="40">
   </div>
   <br>
   <div align="left">
- <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130">
-  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/bootstrap.gif" width="70">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
+ <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/git.gif" width="40">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/bootstrap.gif" width="40">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/github.webp" width="40">
   </div>
 </p>
 
