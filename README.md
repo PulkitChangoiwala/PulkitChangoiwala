@@ -2,15 +2,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<a href="https://twitter.com/PChangoiwala">
-  <img align="left" alt="Pulkit Changoiwala | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I Love reading about products and startups. Also, I am an ardent book reader. I do Competitive Programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I occassionally design! Always ready to discuss new stuffs and products. Catch me on Twitter.
@@ -25,6 +16,9 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@PChangoiwala](https://twitter.com/PChangoiwala);
 - 📝[Resume](https://drive.google.com/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=PulkitChangoiwala.PulkitChangoiwala)
+
 
 **Languages and Tools:**  
  
