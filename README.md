@@ -7,7 +7,8 @@
 I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I Love reading about products and startups. Also, I am an ardent book reader. I do Competitive Programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I occassionally design! Always ready to discuss new stuffs and products. Catch me on Twitter.
 
 
-   <img align="right" alt="GIF" src="https://giphy.com/gifs/UtnxCnjWAOL1J6TNUR?raw=true" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
   
 **Talking about Personal Stuffs:**
 
@@ -24,15 +25,16 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
  
 <p align="center">
   <div align="left" >
-  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/html.gif" width="40">
-  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/css.gif" width="40">
-  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/js.webp" width="40">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/python.gif" width="40"> 
   </div>
   <br>
   <div align="left">
- <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/git.gif" width="40">
-  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/bootstrap.gif" width="40">
-  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/github.webp" width="40">
+   <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/html.gif" width="35">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/css.gif" width="35">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/js.webp" width="35">
+   <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/git.gif" width="35">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/bootstrap.gif" width="35">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/github.webp" width="35">
   </div>
 </p>
 
