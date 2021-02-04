@@ -25,6 +25,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
  
 <p align="center">
   <div align="left" >
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/c++.gif" width="45">   
   <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/python.gif" width="40"> 
   </div>
   <br>
