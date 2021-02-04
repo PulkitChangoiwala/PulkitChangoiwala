@@ -31,7 +31,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
   <br>
   <div align="left">
  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
+  <img src="https://github.com/PulkitChangoiwala/PulkitChangoiwala/blob/main/Assets/bootstrap.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
   </div>
 </p>
