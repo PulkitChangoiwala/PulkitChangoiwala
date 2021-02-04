@@ -7,7 +7,7 @@
 I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I Love reading about products and startups. Also, I am an ardent book reader. I do Competitive Programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I occassionally design! Always ready to discuss new stuffs and products. Catch me on Twitter.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+   <img align="right" alt="GIF" src="https://giphy.com/gifs/UtnxCnjWAOL1J6TNUR?raw=true" />
   
 **Talking about Personal Stuffs:**
 
