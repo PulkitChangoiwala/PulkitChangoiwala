@@ -33,24 +33,13 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 </p>
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++        13 hrs 28 mins  █████████████████████▓░░░   86.39 % 
-HTML       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Markdown   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-YAML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-```
-<!--END_SECTION:waka-->
-
-
 🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,111 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 543 tasks so far           
-⏳  Longest streak is 10 days
+<!-- TODO-IST:START 
+🏆            
+🌸            
+✅  
+⏳  
+-->
 <!-- TODO-IST:END -->
 
 
