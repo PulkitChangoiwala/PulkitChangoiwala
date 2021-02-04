@@ -23,13 +23,17 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 **Languages and Tools:**  
  
 <p align="center">
+  <div align="left" >
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
+  </div>
   <br>
+  <div align="left">
  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" width="130">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
+  </div>
 </p>
 
 
@@ -45,7 +49,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PulkitChangoiwala&show_icons=true&theme=gotham" alt="changoi" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PulkitChangoiwala&show_icons=true&theme=gotham" alt="changoi" />
 
 
 
