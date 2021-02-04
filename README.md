@@ -11,8 +11,8 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on ___ ?!
-- 🌱 I’m currently learning Everything; 
+- 👨🏽‍💻 I’m currently working on my CP skills.
+- 🌱 I’m currently a learner. 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@PChangoiwala](https://twitter.com/PChangoiwala);
 - 📝[Resume](https://drive.google.com/)
