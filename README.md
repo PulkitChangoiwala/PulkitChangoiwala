@@ -4,7 +4,7 @@
 
 <br />
 
-I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I Love reading about products and startups. Also, I am an ardent book reader. I do Competitive Programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I occassionally design! Always ready to discuss new stuffs and products. Catch me on Twitter.
+I am a final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I Love reading about products and startups. Also, I am an ardent book reader. I do Competitive Programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I occassionally design! Always ready to discuss new stuffs and products. Catch me on Twitter.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -12,9 +12,9 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on my CP skills.
-- 🌱 I’m currently a learner. 
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on my self-improvement;
+- 🌱 I’m currently a learner; 
+- 💬 I am happy to help, if you need some;
 - 📫 How to reach me: [@PChangoiwala](https://twitter.com/PChangoiwala);
 - 📝[Resume](https://drive.google.com/)
 
